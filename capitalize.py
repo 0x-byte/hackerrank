@@ -10,6 +10,3 @@ import sys
 def solve(s):
     return ' '.join([i.capitalize() for i in s.split(' ')])
     
-
-
-print(solve('reda abadou   aba'))
